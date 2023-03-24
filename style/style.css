@@ -1,0 +1,28 @@
+.logo{
+    font-family:'Lucida Casual', 'Comic Sans MS';
+}
+#herosection{
+    background-image: url("./Asset/logoooo.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh;
+    line-height: 55vh;
+    
+}
+#mainname{
+    font-size: 30px;
+}
+.box{
+    text-transform: uppercase;
+    opacity: 0.50;
+    z-index: 10;
+    padding: 25px;
+    background: teal;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    position: fixed;
+    top: 200px;
+    right: 0;
+}
